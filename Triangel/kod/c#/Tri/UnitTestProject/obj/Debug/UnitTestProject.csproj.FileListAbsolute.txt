@@ -1,0 +1,14 @@
+c:\Users\tn222eb\documents\visual studio 2012\Projects\Tri\UnitTestProject\bin\Debug\UnitTestProject.dll
+c:\Users\tn222eb\documents\visual studio 2012\Projects\Tri\UnitTestProject\bin\Debug\UnitTestProject.pdb
+c:\Users\tn222eb\documents\visual studio 2012\Projects\Tri\UnitTestProject\bin\Debug\Tri.exe
+c:\Users\tn222eb\documents\visual studio 2012\Projects\Tri\UnitTestProject\bin\Debug\Tri.pdb
+c:\Users\tn222eb\documents\visual studio 2012\Projects\Tri\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+c:\Users\tn222eb\documents\visual studio 2012\Projects\Tri\UnitTestProject\obj\Debug\UnitTestProject.dll
+c:\Users\tn222eb\documents\visual studio 2012\Projects\Tri\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\Tommy Nguyen\Documents\Visual Studio 2012\Projects\Tri\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Tommy Nguyen\Documents\Visual Studio 2012\Projects\Tri\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Tommy Nguyen\Documents\Visual Studio 2012\Projects\Tri\UnitTestProject\bin\Debug\Tri.exe
+C:\Users\Tommy Nguyen\Documents\Visual Studio 2012\Projects\Tri\UnitTestProject\bin\Debug\Tri.pdb
+C:\Users\Tommy Nguyen\Documents\Visual Studio 2012\Projects\Tri\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Tommy Nguyen\Documents\Visual Studio 2012\Projects\Tri\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Tommy Nguyen\Documents\Visual Studio 2012\Projects\Tri\UnitTestProject\obj\Debug\UnitTestProject.pdb
