@@ -12,3 +12,10 @@ C:\Users\Tommy Nguyen\Documents\Visual Studio 2012\Projects\Tri\UnitTestProject\
 C:\Users\Tommy Nguyen\Documents\Visual Studio 2012\Projects\Tri\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
 C:\Users\Tommy Nguyen\Documents\Visual Studio 2012\Projects\Tri\UnitTestProject\obj\Debug\UnitTestProject.dll
 C:\Users\Tommy Nguyen\Documents\Visual Studio 2012\Projects\Tri\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\Tommy Nguyen\Documents\GitHub\Uppgift-1\Triangel\kod\c#\Tri\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Tommy Nguyen\Documents\GitHub\Uppgift-1\Triangel\kod\c#\Tri\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Tommy Nguyen\Documents\GitHub\Uppgift-1\Triangel\kod\c#\Tri\UnitTestProject\bin\Debug\Tri.exe
+C:\Users\Tommy Nguyen\Documents\GitHub\Uppgift-1\Triangel\kod\c#\Tri\UnitTestProject\bin\Debug\Tri.pdb
+C:\Users\Tommy Nguyen\Documents\GitHub\Uppgift-1\Triangel\kod\c#\Tri\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Tommy Nguyen\Documents\GitHub\Uppgift-1\Triangel\kod\c#\Tri\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Tommy Nguyen\Documents\GitHub\Uppgift-1\Triangel\kod\c#\Tri\UnitTestProject\obj\Debug\UnitTestProject.pdb
