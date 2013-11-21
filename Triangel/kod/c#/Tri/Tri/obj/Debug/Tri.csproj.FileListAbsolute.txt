@@ -4,12 +4,3 @@ c:\users\tn222eb\documents\visual studio 2012\Projects\Tri\Tri\bin\Debug\Tri.pdb
 c:\users\tn222eb\documents\visual studio 2012\Projects\Tri\Tri\obj\Debug\Tri.csprojResolveAssemblyReference.cache
 c:\users\tn222eb\documents\visual studio 2012\Projects\Tri\Tri\obj\Debug\Tri.exe
 c:\users\tn222eb\documents\visual studio 2012\Projects\Tri\Tri\obj\Debug\Tri.pdb
-C:\Users\Tommy Nguyen\Documents\Visual Studio 2012\Projects\Tri\Tri\bin\Debug\Tri.exe.config
-C:\Users\Tommy Nguyen\Documents\Visual Studio 2012\Projects\Tri\Tri\obj\Debug\Tri.exe
-C:\Users\Tommy Nguyen\Documents\Visual Studio 2012\Projects\Tri\Tri\obj\Debug\Tri.pdb
-C:\Users\Tommy Nguyen\Documents\Visual Studio 2012\Projects\Tri\Tri\bin\Debug\Tri.exe
-C:\Users\Tommy Nguyen\Documents\Visual Studio 2012\Projects\Tri\Tri\bin\Debug\Tri.pdb
-C:\Users\Tommy Nguyen\Documents\Visual Studio 2012\Projects\Tri\Tri\obj\Debug\Tri.csprojResolveAssemblyReference.cache
-C:\Users\Tommy Nguyen\Documents\GitHub\Uppgift-1\Triangel\kod\c#\Tri\Tri\bin\Debug\Tri.exe.config
-C:\Users\Tommy Nguyen\Documents\GitHub\Uppgift-1\Triangel\kod\c#\Tri\Tri\obj\Debug\Tri.exe
-C:\Users\Tommy Nguyen\Documents\GitHub\Uppgift-1\Triangel\kod\c#\Tri\Tri\obj\Debug\Tri.pdb
